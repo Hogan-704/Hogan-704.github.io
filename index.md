@@ -7,6 +7,6 @@
 <form>
   USERNAME:<input type="text" name="username"><br>
   PASSWORD:<input type="password" name="password">
-  SUBMIT:<input type="submit" value="Submit">
+  <p>SUBMIT:<input type="submit" value="CONFIRM"></p>
 </form>
   
