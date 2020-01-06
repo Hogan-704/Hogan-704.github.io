@@ -3,7 +3,7 @@
   </head>
   <body>
     <!--注释-->
-    <h2 style="background-color:red;">这是一个标题</h2>
+    <h1>MarkDown</h1>
     <p> JUST A TITLE</p>
     <p>HELLO !!!</p>
     <ul>
