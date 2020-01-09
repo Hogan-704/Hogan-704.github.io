@@ -9,7 +9,7 @@
   <li> <a href="https://www.baidu.com/">百度</a> </li>
   <li> <a href="https://www.163.com/">网易</a> </li>
 </ul>
-<form>
+<form action="test2.html">
 <table>
 <tr>
   <td>USERNAME:</td>
