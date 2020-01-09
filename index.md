@@ -7,8 +7,10 @@
   <li> <a href="https://www.163.com/">网易</a> </li>
 </ul>
 <form>
-  USERNAME:<input type="text" name="username"><br>
-  PASSWORD:<input type="password" name="password">
+  USERNAME:
+  <input type="text" name="username"><br>
+  PASSWORD:
+  <input type="password" name="password">
   <p><input type="submit" value="CONFIRM"></p>
 </form>
 </body>
