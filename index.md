@@ -11,4 +11,5 @@
   PASSWORD:<input type="password" name="password">
   <p><input type="submit" value="CONFIRM"></p>
 </form>
+</body>
   
