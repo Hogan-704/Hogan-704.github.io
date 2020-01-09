@@ -1,5 +1,6 @@
 <h1> WELCOME </h1>
 <p>HELLO !!! THIS IS A TESTING WEBPAGE</p>
+<body background="D:\Documents\Pictures\Saved Pictures\A1.jpg">
 <p>I WILL RECORD SOME LABEL IN HERE </p>
 <ul>
   <li> <a href="https://www.baidu.com/">百度</a> </li>
