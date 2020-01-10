@@ -1,11 +1,5 @@
 <html>
 <head>
-  <title>Testing Webpage</title>
-<h1> WELCOME </h1>
-<p>HELLO !!! THIS IS A TEST WEBPAGE</p>
-</head>
-<body id="A1" background=<html>
-<head>
 <meta charset="utf-8">
 <title>Testing Webpage</title>
 <h1> WELCOME </h1>
@@ -45,27 +39,5 @@ bottom.style.backgroundImage = (arr[i++]);
 <div id="buttom">
 <input type="button" value="切换背景" onclick="t1();"/>
 </div>
-</body>
-</html>
-"https://s2.ax1x.com/2020/01/09/lWQDTf.jpg">
-<p>I WILL UPDATE SOME LABEL IN HERE </p>
-<ul>
-  <li> <a href="https://www.baidu.com/">百度</a> </li>
-  <li> <a href="https://www.163.com/">网易</a> </li>
-</ul>
-<form action="test2.html">
-<table>
-<tr>
-  <td>USERNAME:</td>
-  <td><input type="text" name="username"><br></td>
-</tr>
-<tr>
-<td>PASSWORD:</td>
-<td><input type="password" name="password"></td>
-</tr>
-</table>
-<p><input type="submit" value="CONFIRM"></p>
-</form>
-<p><button onclick="document.getElementById(A1).src="https://s2.ax1x.com/2020/01/09/lWJnSO.jpg">切换背景</button>
 </body>
 </html>
