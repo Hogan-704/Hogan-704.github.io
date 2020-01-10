@@ -8,7 +8,7 @@
 var i=0;
 function t1(){
 var arr=
-['url(https://s2.ax1x.com/2020/01/09/lWJnSO.jpg)','url(https://s2.ax1x.com/2020/01/09/lWQDTf.jpg)'];
+['url(https://s2.ax1x.com/2020/01/09/lWJnSO.jpg)','url(https://s2.ax1x.com/2020/01/10/lfX7tO.jpg)','url(https://s2.ax1x.com/2020/01/10/lfXfXR.jpg','url(https://s2.ax1x.com/2020/01/09/lWQDTf.jpg)'];
 var bottom = document.getElementById('zhengti');
 if(i==arr.length){
 i=0;
